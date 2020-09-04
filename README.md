@@ -2,6 +2,7 @@
 wvcs--madeleine-e-t created by GitHub Classroom
 <!DOCTYPE html>
 
+<html>
 <body>
   <h1> Madeleine's Website </h1>
 </body>
