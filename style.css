@@ -1,9 +1,10 @@
  <style> 
-    
+  
+/* figure out why the body won't turn green like the others */
 body {
       background-color: teal;
     }
-    
+/*------------------------nav bar------------------------- */    
     ul {
   list-style-type: none;
   margin: 0;
